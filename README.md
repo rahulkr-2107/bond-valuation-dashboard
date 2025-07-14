@@ -6,7 +6,7 @@ A lightweight interactive app that calculates the price, duration, convexity, an
 
 ##  Live Demo
 
-👉 [Try it on Streamlit Cloud](https://rahulkr-2107-bond-valuation-dashboard.streamlit.app)
+ [Try it on Streamlit Cloud](https://rahulkr-2107-bond-valuation-dashboard.streamlit.app)
 
 ---
 
